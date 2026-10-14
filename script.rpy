@@ -20,12 +20,20 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
+    play music "deltarune-explosion.mp3"
+
     show jun at right
     e"hey look i can teleport"
     show jun at truecenter
     e"isn't that cool?"
     show jun at left
     e"look i did it again"
+    e"wanna see me duplicate myself?"
+    show jun as jun2 at center 
+    show jun as jun3 at right
+    e"arent i cool"
+
+
 
     # These display lines of dialogue.
 
