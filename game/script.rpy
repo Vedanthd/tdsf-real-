@@ -78,8 +78,9 @@ label start:
     "Coconut Popsicle has been removed to your inventory."
     "You absolute monster."
 
-    "Think about what you've done."
+    "Think about what you've done{cps=3}...{/cps}"
 
-    # This ends the game.
+    scene black with dissolve 
+    call cookieclicker
 
     return
