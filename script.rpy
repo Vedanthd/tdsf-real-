@@ -33,7 +33,7 @@ label start:
     show jun as jun3 at right
     e"arent i cool"
 
-
+    call cookie_clicker
 
     # These display lines of dialogue.
 
